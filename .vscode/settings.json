@@ -1,0 +1,13 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "C:/Users/ruchi/OneDrive/Documents/Desktop/PersonalizedQuizApp/lib/javafx-sdk-24.0.1/lib/*.jar"
+  ],
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-22",
+      "path": "C:/Users/ruchi/OneDrive/Documents/Desktop/PersonalizedQuizApp/lib/jdk-22.0.2",
+      "default": true
+    }
+  ]
+}
